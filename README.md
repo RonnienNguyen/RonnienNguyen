@@ -33,4 +33,3 @@ Skills: Java / Flutter / Python
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RonnienNguyen)  
 
-![Profile views](https://gpvc.arturio.dev/RonnienNguyen)  
