@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<!--
-**RonnienNguyen/RonnienNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Phuc (you can spell my name as a food, very delicious :D), my english name is Ronnie, 
+my underground name in IT Sec/Crypto Community/ is RonSL. I really enjoy learning new languages and frameworks like Java (Spring Boot, Quarkus), Python (Pytorch, Data Analyst) and Flutter. In my freetime beside working as a developer, I'm a content creator who are fall in love with building project that create a meaningful impact. All coding projects are built from the scratch, from planning and designing to solving real-life problems.
 
+I publish all my content on my Tiktok channel "...", Youtube channel "...". Please feel free if you hit the button subscribe to support me 😄
+
+[![Ronnie's github stats](https://github-readme-stats.vercel.app/api?username=ronniennguyen)](https://github.com/ronniennguyen/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
