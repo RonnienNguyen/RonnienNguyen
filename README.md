@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ronnie
 #### I'm a Backend Developer, a Data Analyst and a coder who are very passionate about coding.
-![I'm a Backend Developer](https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.6435-9/49390780_1080534178773831_6987435216725868544_n.jpg?stp=dst-jpg_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ejoqFY7SM10AX9I-vF8&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfA4kAcS0IBcmRrs2GZ-XZFdZqlccyarTEU8iphiWeGpUw&oe=64DF3B36)
+![I'm a Backend Developer](https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.6435-9/49390780_1080534178773831_6987435216725868544_n.jpg?stp=dst-jpg_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ejoqFY7SM10AX9I-vF8&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfA4kAcS0IBcmRrs2GZ-XZFdZqlccyarTEU8iphiWeGpUw&oe=64DF3B36 = 400 x 200)
 
 I'm Phuc (you can spell my name as a food, very delicious :D), my english name is Ronnie, 
 my underground name in IT Sec/Crypto Community/ is RonSL. I really enjoy learning new languages and frameworks like Java (Spring Boot, Quarkus), Python (Pytorch, Data Analyst) and Flutter. In my freetime beside working as a developer, I'm a content creator who falls in love with building projects that create a meaningful impact. All coding projects are built from the scratch, from planning and designing to solving real-life problems.
