@@ -27,8 +27,6 @@ Skills: Java / Flutter / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnienNguyen&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RonnienNguyen)  
-
 ![GitHub metrics](https://metrics.lecoq.io/RonnienNguyen)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RonnienNguyen)  
