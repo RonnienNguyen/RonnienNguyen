@@ -14,7 +14,6 @@ Skills: Java / Flutter / Python
 - 💬 Ask me about Coding, Teamwork, Crypto 
 - 📫 How to reach me: My personal email: ndtphuclqd1306@gmail.com 
 - 😄 Pronouns: Phuc <=> Food 
-- ⚡ Fun fact: I'm a boy 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RonnienNguyen) 
